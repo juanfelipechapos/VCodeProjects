@@ -1,0 +1,41 @@
+# Java and IDE ignores
+*.class
+*.jar
+*.war
+*.ear
+
+# Compiled class files
+/bin/
+/build/
+/out/
+
+# Maven
+/target/
+
+# Gradle
+/.gradle/
+build/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# IntelliJ
+/.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*~
+*.swp
+*.swo
